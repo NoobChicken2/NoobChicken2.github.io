@@ -1,0 +1,1 @@
+import{a,t as n}from"../chunks/disclose-version.DgjLNEMj.js";import"../chunks/legacy.PXMw4WMR.js";var o=n('<main class="h-[100vh] flex justify-center items-center bg-blue-200"><div><p class="text-[100px] font-bold">🚧Under construction🚧</p></div></main>');function r(t){var e=o();a(t,e)}export{r as component};
